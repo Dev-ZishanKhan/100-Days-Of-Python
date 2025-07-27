@@ -1,6 +1,0 @@
-print("hello world")
-print("Mix 500 g of flour , 10g yoeasat")
-print("Add 300 ml of water and mix well")
-print("Knead the dough for 10 minutes")
-print("hello\nHow are U")
-print("Bake " +  "the bread")
