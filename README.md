@@ -21,7 +21,7 @@ This repo tracks my **daily progress**, **mini-projects**, and **learnings** thr
 
 ## ✅ Current Progress
 
-📅 **Days Completed:** `7 / 100`  
+📅 **Days Completed:** `10 / 100`  
 🧠 **Consistency:** Strong start!  
 🔄 **Updated:** Daily
 
