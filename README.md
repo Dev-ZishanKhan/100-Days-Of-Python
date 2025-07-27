@@ -1,6 +1,6 @@
 # 🐍 100 Days of Python
 
-[![Progress](https://img.shields.io/badge/Progress-7%25-brightgreen)](https://github.com/iazishan/100-Days-Of-Python)  
+[![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen)](https://github.com/Dec-ZishanKhan/100-Days-Of-Python)  
 Welcome to my **100 Days of Python** journey! 🚀  
 This repo tracks my **daily progress**, **mini-projects**, and **learnings** throughout the challenge.
 
