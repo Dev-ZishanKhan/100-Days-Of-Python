@@ -1,0 +1,2 @@
+print("Love Python")
+
